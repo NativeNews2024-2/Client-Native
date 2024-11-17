@@ -37,5 +37,5 @@ Contribuições são bem-vindas!  Por favor, abra um issue para reportar bugs ou
 
 ## Autores
 
-José Roberto
-Francisco Macedo
+- José Roberto
+- Francisco Macedo
